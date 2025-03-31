@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/GabrielLima2803/portifolio-frontend
+[submodule "backend"]
+	path = backend
+	url = https://github.com/GabrielLima2803/portifolio-backend
